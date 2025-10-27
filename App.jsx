@@ -1,8 +1,8 @@
 import { useState, useEffect, useCallback } from "react"; // 1. Import useCallback
 import axios from "axios";
-import CategorySelector from "./components/CategorySelector"; // Removed 'components/' if components are at the same level as App.js
-import NewsList from "./components/NewsList";
-import Pagination from "./components/Pagination";
+import CategorySelector from "/CategorySelector"; // Removed 'components/' if components are at the same level as App.js
+import NewsList from "/NewsList";
+import Pagination from "/Pagination";
 
 function App() {
   const [news, setNews] = useState([]);
