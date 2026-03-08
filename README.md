@@ -198,7 +198,7 @@ This project is licensed under the **MIT License**.
 
 **Sayali Kale**
 
-- GitHub: https://github.com/sayali51
+- A computer science student interested in web development
 - LinkedIn: www.linkedin.com/in/sayali-kale-42001a2b1
 
 ---
